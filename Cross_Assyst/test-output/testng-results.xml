@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-22T18:36:35 IST" name="Suite" finished-at="2020-08-22T18:39:00 IST" duration-ms="144786">
+    <groups>
+    </groups>
+    <test started-at="2020-08-22T18:36:35 IST" name="Test" finished-at="2020-08-22T18:39:00 IST" duration-ms="144786">
+      <class name="Test.CrossAssyst">
+        <test-method is-config="true" signature="dataInitialization()[pri:0, instance:Test.CrossAssyst@7fc2413d]" started-at="2020-08-22T18:36:35 IST" name="dataInitialization" finished-at="2020-08-22T18:36:35 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataInitialization -->
+        <test-method is-config="true" signature="driverInitialization()[pri:0, instance:Test.CrossAssyst@7fc2413d]" started-at="2020-08-22T18:36:35 IST" name="driverInitialization" finished-at="2020-08-22T18:37:48 IST" duration-ms="72361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverInitialization -->
+        <test-method is-config="true" signature="jSEInitialization()[pri:0, instance:Test.CrossAssyst@7fc2413d]" started-at="2020-08-22T18:37:48 IST" name="jSEInitialization" finished-at="2020-08-22T18:37:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jSEInitialization -->
+        <test-method signature="createAccount()[pri:1, instance:Test.CrossAssyst@7fc2413d]" started-at="2020-08-22T18:37:48 IST" name="createAccount" finished-at="2020-08-22T18:38:07 IST" duration-ms="19112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method signature="login()[pri:2, instance:Test.CrossAssyst@7fc2413d]" started-at="2020-08-22T18:38:07 IST" name="login" finished-at="2020-08-22T18:38:12 IST" duration-ms="4679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="placingOrder()[pri:3, instance:Test.CrossAssyst@7fc2413d]" started-at="2020-08-22T18:38:12 IST" name="placingOrder" finished-at="2020-08-22T18:38:22 IST" duration-ms="10414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placingOrder -->
+        <test-method signature="checkout()[pri:4, instance:Test.CrossAssyst@7fc2413d]" started-at="2020-08-22T18:38:22 IST" name="checkout" finished-at="2020-08-22T18:38:38 IST" duration-ms="15960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+        <test-method signature="verify()[pri:5, instance:Test.CrossAssyst@7fc2413d]" started-at="2020-08-22T18:38:38 IST" name="verify" finished-at="2020-08-22T18:38:45 IST" duration-ms="7053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Test.CrossAssyst@7fc2413d]" started-at="2020-08-22T18:38:45 IST" name="close" finished-at="2020-08-22T18:39:00 IST" duration-ms="14777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Test.CrossAssyst -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
