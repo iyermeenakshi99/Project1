@@ -19,7 +19,7 @@ import org.testng.annotations.Test;
 public class CrossAssyst {
 	
 	WebDriver driver;
-	JavascriptExecutor js= (JavascriptExecutor)driver;
+	JavascriptExecutor js;
 	Properties prop;
 	
 	@BeforeTest
